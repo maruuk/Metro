@@ -10,6 +10,6 @@
     <li>Motywy na podstawie odtwarzanych utworów</li>
     <li>Regulacja głośności</li>
     <li>Czarna lista</li>
-    <li>Obsługa artystów albumów</li>
+    <li>Obsługa artysty albumu</li>
     <li>Automatyczne pobieranie okładek artystów z Last.fm</li>
 </ul>
